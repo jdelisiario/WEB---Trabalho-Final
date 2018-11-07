@@ -1,0 +1,7 @@
+O trabalho prático deverá ser feito individualmente.
+- Valerá 50 pontos, sendo 40 pontos do site desenvolvido e 10 pontos da apresentação.
+- Data limite para entrega dos arquivos do site: 13 de julho de 2016
+- O objetivo é elaborar um site informativo sobre determinado assunto, definido no início da disciplina.
+- O site deverá utilizar, obrigatoriamente, elementos do HTML5, CSS e JavaScript em todas as suas páginas. Deverá possuir uma página principal e pelo menos outras quatro páginas secundárias (ou subdivisões na página principal). Todas as páginas do site deverão estar relacionadas com o assunto definido pelo aluno.
+- A matriz de avaliação privilegiará aspectos de acessibilidade, usabilidade, interação com o usuário, dentre outros itens definidos pelo professor.
+- As apresentações serão realizadas no dia 14/07/2016 às 18:30.
